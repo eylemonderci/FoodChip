@@ -3,7 +3,7 @@
 FoodChip, Kotlin ve modern Android bileşenleri kullanılarak geliştirilmiş, kullanıcı dostu arayüze sahip bir yemek sipariş uygulaması prototipidir. Kullanıcıların kategoriler arasında gezinebileceği, ürün detaylarını görebileceği ve sepetlerini yönetebileceği bir deneyim sunar.
 
 ![FoodChip Screenshot](https://github.com/eylemonderci/FoodChip/blob/main/app_screenshot.png?raw=true)
-*(Ekran görüntüsünü yükledikten sonra bu kısım otomatik görünecek, aşağıda nasıl yapacağını anlattım)*
+
 
 ## 📱 Özellikler
 
@@ -29,7 +29,6 @@ FoodChip, Kotlin ve modern Android bileşenleri kullanılarak geliştirilmiş, k
 |:---:|:---:|:---:|
 | <img src="https://via.placeholder.com/200x400?text=Ana+Sayfa" width="200"> | <img src="https://via.placeholder.com/200x400?text=Icecekler" width="200"> | <img src="https://via.placeholder.com/200x400?text=Sepet" width="200"> |
 
-*(Buraya kendi aldığın ekran görüntülerini yükleyerek linklerini güncelleyebilirsin)*
 
 ## 🚀 Kurulum
 
